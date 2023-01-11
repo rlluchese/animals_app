@@ -1,0 +1,17 @@
+.Heart {
+    position: absolute;
+    bottom: 10%;
+    right: 10%;
+}
+
+.Animal {
+    width: 200px;
+}
+
+.AnimalShow {
+    position: relative;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 0px 3px 4px lightgray;
+}
